@@ -37,9 +37,9 @@
     <StopBar>
         <Name>E--06</Name>
         <Runway>16/34</Runway>
-        <Point>-373953.599+1445018.389</Point>
-        <Point>-373954.439+1445018.299</Point>
-        <Point>-373955.042+1445018.235</Point>
+        <Point>-373954.076+1445008.971</Point>
+        <Point>-373953.720+1445009.005</Point>
+        <Point>-373953.366+1445009.034</Point>
     </StopBar>
     <StopBar>
         <Name>Q--07</Name>
@@ -72,9 +72,9 @@
     <StopBar>
         <Name>A--13</Name>
         <Runway>09/27</Runway>
-        <Point>-373946.135+1445027.967</Point>
-        <Point>-373946.187+1445027.522</Point>
-        <Point>-373946.255+1445026.949</Point>
+        <Point>-373939.144+1445025.767</Point>
+        <Point>-373939.094+1445026.199</Point>
+        <Point>-373939.042+1445026.642</Point>
     </StopBar>
     <StopBar>
         <Name>C--15</Name>
