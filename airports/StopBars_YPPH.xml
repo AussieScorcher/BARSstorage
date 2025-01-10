@@ -2,155 +2,156 @@
     <StopBar>
         <Name>C11--01</Name>
         <Runway>03/21</Runway>
-        <Point>-315732.068+1155741.383</Point>
-        <Point>-315732.447+1155741.264</Point>
-        <Point>-315732.832+1155741.146</Point>
+        <Point>-315732.779+1155741.226</Point>
+        <Point>-315732.420+1155741.324</Point>
+        <Point>-315732.068+1155741.418</Point>
     </StopBar>
     <StopBar>
         <Name>A11--02</Name>
         <Runway>03/21</Runway>
-        <Point>-315729.876+1155731.090</Point>
-        <Point>-315730.307+1155730.952</Point>
-        <Point>-315730.629+1155730.854</Point>
+        <Point>-315729.800+1155731.140</Point>
+        <Point>-315730.219+1155731.005</Point>
+        <Point>-315730.562+1155730.899</Point>
     </StopBar>
     <StopBar>
         <Name>C9--03</Name>
         <Runway>03/21</Runway>
-        <Point>-315703.696+1155747.157</Point>
-        <Point>-315703.290+1155747.283</Point>
-        <Point>-315702.880+1155747.407</Point>
+        <Point>-315703.690+1155747.213</Point>
+        <Point>-315703.288+1155747.329</Point>
+        <Point>-315702.869+1155747.448</Point>
     </StopBar>
     <StopBar>
         <Name>A9--04</Name>
         <Runway>03/21</Runway>
-        <Point>-315701.192+1155739.422</Point>
-        <Point>-315701.591+1155739.308</Point>
-        <Point>-315701.999+1155739.193</Point>
+        <Point>-315701.208+1155739.452</Point>
+        <Point>-315701.598+1155739.334</Point>
+        <Point>-315701.971+1155739.221</Point>
     </StopBar>
     <StopBar>
         <Name>A7--05</Name>
         <Runway>03/21</Runway>
-        <Point>-315645.446+1155743.993</Point>
-        <Point>-315645.863+1155743.871</Point>
-        <Point>-315646.267+1155743.752</Point>
+        <Point>-315645.403+1155744.032</Point>
+        <Point>-315645.827+1155743.912</Point>
+        <Point>-315646.225+1155743.801</Point>
     </StopBar>
     <StopBar>
         <Name>C6--06</Name>
         <Runway>03/21</Runway>
-        <Point>-315640.476+1155753.923</Point>
-        <Point>-315641.004+1155753.763</Point>
-        <Point>-315641.519+1155753.608</Point>
+        <Point>-315640.499+1155753.987</Point>
+        <Point>-315640.993+1155753.836</Point>
+        <Point>-315641.488+1155753.684</Point>
     </StopBar>
     <StopBar>
         <Name>A6--07</Name>
         <Runway>03/21</Runway>
-        <Point>-315639.828+1155745.609</Point>
-        <Point>-315639.335+1155745.764</Point>
-        <Point>-315638.838+1155745.918</Point>
+        <Point>-315639.781+1155745.667</Point>
+        <Point>-315639.284+1155745.814</Point>
+        <Point>-315638.790+1155745.958</Point>
     </StopBar>
     <StopBar>
         <Name>V--08</Name>
         <Runway>06/24</Runway>
-        <Point>-315630.167+1155736.150</Point>
-        <Point>-315630.373+1155735.690</Point>
-        <Point>-315630.547+1155735.303</Point>
+        <Point>-315630.118+1155736.155</Point>
+        <Point>-315630.359+1155735.684</Point>
+        <Point>-315630.549+1155735.314</Point>
     </StopBar>
     <StopBar>
         <Name>P--09</Name>
         <Runway>03/21</Runway>
-        <Point>-315626.566+1155757.924</Point>
-        <Point>-315626.893+1155758.164</Point>
-        <Point>-315627.226+1155758.411</Point>
+        <Point>-315626.515+1155758.045</Point>
+        <Point>-315626.835+1155758.265</Point>
+        <Point>-315627.146+1155758.479</Point>
     </StopBar>
     <StopBar>
         <Name>A--10</Name>
         <Runway>06/24</Runway>
-        <Point>-315626.571+1155744.710</Point>
-        <Point>-315626.670+1155745.176</Point>
-        <Point>-315626.755+1155745.576</Point>
+        <Point>-315626.500+1155744.769</Point>
+        <Point>-315626.596+1155745.212</Point>
+        <Point>-315626.679+1155745.599</Point>
     </StopBar>
     <StopBar>
         <Name>V--11</Name>
         <Runway>06/24</Runway>
-        <Point>-315624.110+1155731.973</Point>
-        <Point>-315624.356+1155731.429</Point>
-        <Point>-315624.527+1155731.051</Point>
+        <Point>-315624.502+1155731.062</Point>
+        <Point>-315624.309+1155731.442</Point>
+        <Point>-315624.036+1155731.972</Point>
     </StopBar>
     <StopBar>
         <Name>J1--12</Name>
         <Runway>06/24</Runway>
-        <Point>-315617.927+1155742.985</Point>
-        <Point>-315617.841+1155743.495</Point>
-        <Point>-315617.761+1155743.960</Point>
+        <Point>-315617.685+1155743.877</Point>
+        <Point>-315617.782+1155743.438</Point>
+        <Point>-315617.897+1155742.915</Point>
     </StopBar>
     <StopBar>
         <Name>A--13</Name>
         <Runway>06/24</Runway>
-        <Point>-315615.240+1155749.157</Point>
-        <Point>-315615.111+1155748.575</Point>
-        <Point>-315615.013+1155748.129</Point>
+        <Point>-315614.934+1155748.151</Point>
+        <Point>-315615.028+1155748.588</Point>
+        <Point>-315615.153+1155749.180</Point>
     </StopBar>
     <StopBar>
         <Name>C--14</Name>
         <Runway>06/24</Runway>
-        <Point>-315612.770+1155809.963</Point>
-        <Point>-315612.867+1155810.416</Point>
-        <Point>-315612.960+1155810.857</Point>
+        <Point>-315612.719+1155809.977</Point>
+        <Point>-315612.816+1155810.415</Point>
+        <Point>-315612.915+1155810.867</Point>
     </StopBar>
     <StopBar>
         <Name>S--15</Name>
         <Runway>06/24</Runway>
-        <Point>-315608.872+1155817.488</Point>
-        <Point>-315608.642+1155817.917</Point>
-        <Point>-315608.382+1155818.402</Point>
+        <Point>-315608.400+1155818.321</Point>
+        <Point>-315608.628+1155817.898</Point>
+        <Point>-315608.855+1155817.483</Point>
     </StopBar>
     <StopBar>
         <Name>D--16</Name>
         <Runway>03/21</Runway>
-        <Point>-315605.571+1155755.644</Point>
-        <Point>-315605.926+1155755.449</Point>
-        <Point>-315606.339+1155755.226</Point>
+        <Point>-315605.554+1155755.641</Point>
+        <Point>-315605.915+1155755.450</Point>
+        <Point>-315606.326+1155755.234</Point>
     </StopBar>
     <StopBar>
         <Name>N--17</Name>
         <Runway>03/21</Runway>
-        <Point>-315603.926+1155805.249</Point>
-        <Point>-315603.588+1155805.002</Point>
-        <Point>-315603.258+1155804.760</Point>
+        <Point>-315603.861+1155805.254</Point>
+        <Point>-315603.554+1155805.041</Point>
+        <Point>-315603.235+1155804.814</Point>
     </StopBar>
     <StopBar>
         <Name>N--18</Name>
         <Runway>06/24</Runway>
-        <Point>-315600.920+1155812.792</Point>
-        <Point>-315601.223+1155812.502</Point>
-        <Point>-315601.711+1155812.041</Point>
+        <Point>-315600.888+1155812.757</Point>
+        <Point>-315601.195+1155812.463</Point>
+        <Point>-315601.665+1155812.015</Point>
     </StopBar>
     <StopBar>
         <Name>C--19</Name>
         <Runway>06/24</Runway>
-        <Point>-315600.621+1155813.516</Point>
-        <Point>-315600.718+1155813.956</Point>
-        <Point>-315600.813+1155814.410</Point>
+        <Point>-315600.756+1155814.401</Point>
+        <Point>-315600.662+1155813.959</Point>
+        <Point>-315600.584+1155813.581</Point>
     </StopBar>
     <StopBar>
         <Name>W--20</Name>
         <Runway>06/24</Runway>
-        <Point>-315549.816+1155837.272</Point>
-        <Point>-315550.190+1155837.150</Point>
-        <Point>-315550.632+1155837.006</Point>
+        <Point>-315549.812+1155837.200</Point>
+        <Point>-315550.169+1155837.094</Point>
+        <Point>-315550.576+1155836.973</Point>
     </StopBar>
     <StopBar>
         <Name>W--21</Name>
         <Runway>03/21</Runway>
-        <Point>-315545.770+1155814.095</Point>
-        <Point>-315545.383+1155814.209</Point>
-        <Point>-315544.981+1155814.326</Point>
+        <Point>-315545.668+1155814.068</Point>
+        <Point>-315545.332+1155814.167</Point>
+        <Point>-315544.962+1155814.275</Point>
     </StopBar>
     <StopBar>
         <Name>W--22</Name>
         <Runway>03/21</Runway>
-        <Point>-315543.318+1155802.196</Point>
-        <Point>-315542.861+1155802.326</Point>
-        <Point>-315542.509+1155802.424</Point>
+        <Point>-315542.469+1155802.351</Point>
+        <Point>-315542.813+1155802.259</Point>
+        <Point>-315543.236+1155802.148</Point>
     </StopBar>
+
 </Bars>
